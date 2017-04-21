@@ -23,3 +23,5 @@ CREATE TABLE [dbo].[cc_details_ref_values] (
     [display_value]  VARCHAR (100) NOT NULL,
     [interface_type] VARCHAR (30)  DEFAULT ('operator') NOT NULL
 );
+
+https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database
